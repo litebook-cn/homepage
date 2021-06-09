@@ -2119,3 +2119,11 @@ embed,iframe,object {
 	display:inline-block;
 	width:48%
 }
+
+
+
+.post-column {
+	float: left;
+	margin: 1%;
+	width: 48%;
+}
