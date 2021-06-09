@@ -389,8 +389,6 @@ textarea {
 .content-area {
 	float:left;
 	box-sizing:border-box;
-	padding-right:2em;
-	width:73%
 }
 .sidebar {
 	float:right;
