@@ -2127,3 +2127,10 @@ embed,iframe,object {
 	margin: 1%;
 	width: 48%;
 }
+.p-excerpt {
+	text-overflow: ellipsis;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+}
